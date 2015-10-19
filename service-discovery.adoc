@@ -32,7 +32,7 @@ https://github.com/gliderlabs/registrator
 
 https://github.com/jurmous/etcd4j
 
-. Storing application config (db urls etc.). The app starts, retrieves it's config and configures it's own components.
+. Storing application config (db urls etc.). The app starts, retrieves its config and configures its own components.
 . Integration with Vulcan for monitoring purposes.
 . Thinking about using it for master election for running scheduled tasks.
 . Used internally by CoreOS and Fleet.
